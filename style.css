@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.color{
+    width: 100%;
+    font-size: 40px;
+}
+
+.footer{
+    background-color: brown;
+    color: beige;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 50px;
+    margin-left: 380px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
